@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-This repository consists of codes for various basic data structures and algorithms in C
+This repository consists of codes for various basic data structures and algorithms.
