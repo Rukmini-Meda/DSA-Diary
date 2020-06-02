@@ -1,3 +1,3 @@
 ## DSA Diary
 
-Diary of important and new stuff learnt everyday practicing DSA and CP
+Diary of important tools and techniques learnt everyday practicing DSA and CP
