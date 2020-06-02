@@ -1,2 +1,3 @@
-# Data-Structures-and-Algorithms
-This repository consists of codes for various basic data structures and algorithms.
+## DSA Diary
+
+Diary of important and new stuff learnt everyday practicing DSA and CP
