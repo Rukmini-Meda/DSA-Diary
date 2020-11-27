@@ -1,3 +1,3 @@
 ## DSA Diary
 
-Diary of important tools and techniques learnt everyday practicing DSA and CP
+Includes all problems practiced, important tips and concepts learnt everyday in Data Structures, Algorithms and Competitive Programming.
